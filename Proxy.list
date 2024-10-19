@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,followme.ceo
 DOMAIN-SUFFIX,whatsmydns.me
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,fyb-aff01.com
+DOMAIN-SUFFIX,flyingbird.la
+DOMAIN-SUFFIX,flyingbird.id
+DOMAIN-SUFFIX,fbcn.pro
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
