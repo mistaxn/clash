@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,followme.com
 DOMAIN-SUFFIX,followme.ceo
 DOMAIN-SUFFIX,whatsmydns.me
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,fyb-aff01.com
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
